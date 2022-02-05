@@ -23,3 +23,9 @@ Lastly, the algorithm prints a detailed classification report. Scores regarding 
 The accuracy as well as the other metrics were satisfactory, even though a small number of images was used. For the specific dataset, resizing the images was 
 crucial. At first, 50 images from each class was used. After increasing the size of the dataset, there was a significant increase of the accuracy· from almost 70% 
 to almost 90%, as shown above. So, testing the model with this image:
+
+[!alttext](https://github.com/raf-init/SVC-Cataract/blob/main/cataract_img.png)
+
+We get the following result on the command line:
+
+[!alttext](https://github.com/raf-init/SVC-Cataract/blob/main/cataract_res.png)
