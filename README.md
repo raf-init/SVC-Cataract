@@ -1,4 +1,4 @@
-# SVC-Cataract
+# SVC-Cataract (pending)
 ## Support Vector Classifier for cataract detection.
 
 For this binary classification problem, the Cataract dataset from Kaggle was used. The algorithm implements a SVC (Support Vector Classifier) for 
